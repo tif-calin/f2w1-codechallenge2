@@ -1,4 +1,4 @@
-import { alphabetical, byAge, greatestToLeast, leastToGreatest, lengthSort, alphabetical, byAge } from './array-sort.js';
+import { alphabetical, byAge, greatestToLeast, leastToGreatest, lengthSort } from './array-sort.js';
 
 const NUMS = [1, 3, 5, 2, 90, 20];
 const WORDS = ['dog', 'wolf', 'by', 'family', 'eaten'];
